@@ -1,0 +1,110 @@
+body
+{
+min-height: 100vh;
+background: linear-gradient(#f7f2ef, #69bdd2) ;
+}
+
+header
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .Logo
+{
+color: #154c79;
+font-weight: 500;
+text-decoration: none;
+font-size: 4em;
+text-transform: uppercase;
+letter-spacing: 4px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-left: -60px;
+}
+
+header u1
+{
+display:flex;
+justify-content: center;
+align-items: center;
+margin-right: 100px;
+}
+
+header u1 li
+{
+list-style: none;
+margin-left: 20px;
+}
+
+header u1 li a
+{
+text-decoration: none;
+padding: 12px 15px;
+color: #ffffff;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border-radius: 30px;
+}
+
+header u1 li a:hover{
+    background: #f7f2ef;
+    color: #eab676;
+}
+
+p{
+    color: #ffffff;
+    font-size: 4em;
+    letter-spacing: 4px;
+    margin-top: -500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+section .img1
+{
+margin-top: 150px;
+}
+
+section .img2
+{
+margin-top: -800px;
+}
+
+body .img3{
+    border-radius: 40%;
+   
+}
+ body .img4{
+    border-radius: 40%;
+    margin-left: 100px;
+ }
+
+ body .img5{
+    border-radius: 40%;
+    margin-left: 100px;
+ }
+
+ body h1 {
+    color: #154c79;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    margin-top: 400px;
+ }
+
+ body h2
+ {
+color: #154c79;
+font-size: 2em;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ body h3
+ {
+color: #154c79;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
